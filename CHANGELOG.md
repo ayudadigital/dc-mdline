@@ -1,5 +1,26 @@
 # Changelog
 
+## v1.1.0 (2020-04-14)
+
+### Changes
+
+#### Upgrade
+
+* Change kairops / teecke references with tpbtools ([16b2d7f](https://github.com/tpbtools/dc-mdline/commit/16b2d7f))
+
+#### Build
+
+* Update Auto Release Log adding v1.1.0 info with JPL ([a06583a](https://github.com/tpbtools/dc-mdline/commit/a06583a))
+
+#### Docs
+
+* Update contributing ([8f299bc](https://github.com/tpbtools/dc-mdline/commit/8f299bc))
+* Generate v1.0.0 changelog with JPL ([410c3c7](https://github.com/tpbtools/dc-mdline/commit/410c3c7))
+
+### Authors
+
+* Pedro Amador
+
 ## v1.0.0 (2020-04-13)
 
 ### Changes
