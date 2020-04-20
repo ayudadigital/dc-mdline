@@ -13,7 +13,7 @@ Its a part of the Docker Command series
 Execute the following within your repository folder:
 
 - Using Bash: `entrypoint.sh source.md > target.html`
-- Using Docker: `docker run --rmi -v $(pwd):/workspace kairops/dc-mdline source.md > target.html`
+- Using Docker: `docker run --rmi -v $(pwd):/workspace tpbtools/dc-mdline source.md > target.html`
 - Using docker-command-launcher: `kd mdline source.md > target.html`
 
 ## Considerations
