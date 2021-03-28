@@ -1,5 +1,22 @@
 # Changelog
 
+## v2.0.1 (2021-03-28)
+
+### Changes
+
+#### Build
+
+* Update Auto Release Log adding v2.0.1 info with JPL ([7db7c72](https://github.com/ayudadigital/dc-mdline/commit/7db7c72))
+* Use jpl v6.2.0 ([224a30e](https://github.com/ayudadigital/dc-mdline/commit/224a30e))
+
+#### Docs
+
+* Generate v2.0.0 changelog with JPL ([e3bc584](https://github.com/ayudadigital/dc-mdline/commit/e3bc584))
+
+### Authors
+
+* Pedro Amador
+
 ## v2.0.0 (2020-04-24)
 
 ### Changes
